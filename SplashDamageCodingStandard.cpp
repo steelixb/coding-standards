@@ -43,8 +43,8 @@
 //  Visual Assist Options -> Display -> Display indicator after column n
 
 // [comment.type]
-//  always use the C++ style and not the C /**/ style
-//  because it shows up in searches
+//  always use the single-line // style and not the multi-line /**/ style
+//  for commenting out code because it shows up in searches.
 //  Visual Studio shortcut to toggle comments on a block:
 //      Edit -> Advanced -> Un/Comment Selection
 //      Ctrl+K Ctrl+C / Ctrl+K Ctrl+U
